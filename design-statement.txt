@@ -1,0 +1,5 @@
+Revised Design Statement
+
+    We are inspired by the design of an alien language Heptapod B in the movie Arrival. Each of their sentences consists of a circle with an opening as the base, and some jutting splashes on the circle’s rim implying meanings. 
+
+    In our design, the positive shape is a black figure resembling a Heptapod B sentence design. It consists of a varying black circular outline with an opening, and a blot of splash-like random shape on it. The circle would be placed in the middle of the canvas, with a diameter which is half of the canvas’ side length. The positions of the opening, the position of the blot and the shape of the blot differ according to the number given. The negative shape is a circularly radiant pattern of a collection of random colors for each pixel, with white in the middle and darker shades towards the edges, creating a grey effect.
