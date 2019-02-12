@@ -1,4 +1,4 @@
-Project: A Procedure is Worth a Thousand Pictures
+Project: A Procedure is Worth a Thousand Pictures: Heptapod B Language Imitation
 
 Author: Zoe Cui and Ivy Xu
 
