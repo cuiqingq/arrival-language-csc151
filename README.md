@@ -6,3 +6,5 @@ Note: This code utilizes GNU Image Manipulation Program (GIMP), Dr Racket, and s
 http://www.cs.grinnell.edu/~rebelsky/Courses/CSC151/2017S/reference/setup.html
 
 Project requirements see http://www.cs.grinnell.edu/~rebelsky/Courses/CSC151/2017S/assignments/project.html
+
+
